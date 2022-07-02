@@ -78,8 +78,12 @@ form{
     border-bottom: 1px solid rgba(255, 255, 255, 0.754);
 }
 
-#Google{
-    font-size: 22px;
+
+
+#Google a{
+    font-size: 26px;
+    color: white;
+    text-decoration: none;
 }
 .advancedlinks{
     display: flex;
